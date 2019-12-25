@@ -7,5 +7,5 @@ RESOLUSI
 - Menjadi frontend developer
 - Kursus Online
   1. Vue Js
-  2. Tailwind
+  2. Node JS
   3. Node JS
